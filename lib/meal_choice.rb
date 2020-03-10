@@ -5,4 +5,4 @@ def meal_choice(veg1, veg2, protein = 'tofu')
 #Ruby implicitly returns the value of the final expression, in this case, meal. We can include an explicit return:
 #But it is not necessary here.
   return meal
-  end
+end
